@@ -8,6 +8,4 @@ Every problem will have a `description.txt` file describing the problem.
 
 In the _**`test`**_ directory you can see me verifying functionality.
 
-Hope this is useful to someone out there. 
-
-#✌
+Hope this is useful to someone out there.
