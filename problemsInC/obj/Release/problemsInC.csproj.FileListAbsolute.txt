@@ -1,0 +1,5 @@
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\bin\Release\problemsInC.exe.config
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\bin\Release\problemsInC.exe
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\bin\Release\problemsInC.pdb
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\obj\Release\problemsInC.exe
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\obj\Release\problemsInC.pdb

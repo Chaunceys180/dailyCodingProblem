@@ -1,0 +1,6 @@
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\obj\Debug\problemsInC.csprojAssemblyReference.cache
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\bin\Debug\problemsInC.exe.config
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\bin\Debug\problemsInC.exe
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\bin\Debug\problemsInC.pdb
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\obj\Debug\problemsInC.exe
+C:\Users\Chauncey\Documents\Git Portfolio\dailyCodingProblem\problemsInC\obj\Debug\problemsInC.pdb
